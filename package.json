@@ -2,7 +2,7 @@
   "name": "oerf-lab-website",
   "type": "module",
   "version": "1.0.0",
-  "description": "OERF Lab - Optical & Extreme Reaction Flow Research Group at SJTU",
+  "description": "SOERF Lab - Smart Optical & Extreme Reaction Flow Research Group at SJTU",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",

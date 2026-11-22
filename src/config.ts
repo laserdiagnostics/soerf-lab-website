@@ -17,10 +17,10 @@ export const SITE = {
   since: 2015,
   content: {
     en: {
-      title: "OERF Lab — Optical & Extreme Reaction Flow",
-      shortName: "OERF Lab",
+      title: "SOERF Lab — Smart Optical & Extreme Reaction Flow",
+      shortName: "SOERF Lab",
       description:
-        "Optical & Extreme Reaction Flow (OERF) Lab at Shanghai Jiao Tong University. We develop advanced optical diagnostics, computational imaging, ultrafast spectroscopy, and reacting flow simulations for extreme environment energy and propulsion systems.",
+        "Smart Optical & Extreme Reaction Flow (SOERF) Lab at Shanghai Jiao Tong University. We develop advanced optical diagnostics, computational imaging, ultrafast spectroscopy, and reacting flow simulations for extreme environment energy and propulsion systems.",
       school: "School of Mechanical Engineering",
       university: "Shanghai Jiao Tong University",
       institute: "Institute of Turbomachinery",
@@ -28,10 +28,10 @@ export const SITE = {
       addressLocality: "Shanghai",
     },
     zh: {
-      title: "OERF Lab — 光学与极端反应流实验室",
-      shortName: "OERF Lab",
+      title: "SOERF Lab — 智能光学与极端反应流实验室",
+      shortName: "SOERF Lab",
       description:
-        "上海交通大学光学与极端反应流实验室，面向极端环境能源与动力系统开展先进光学诊断、计算成像、超快光谱和反应流模拟研究。",
+        "上海交通大学智能光学与极端反应流实验室，面向极端环境能源与动力系统开展先进光学诊断、计算成像、超快光谱和反应流模拟研究。",
       school: "机械与动力工程学院",
       university: "上海交通大学",
       institute: "叶轮机械研究所",

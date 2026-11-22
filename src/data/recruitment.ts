@@ -132,7 +132,7 @@ export const recruitmentData: RecruitmentData = {
   ],
   content: {
     en: {
-      title: "Join OERF",
+      title: "Join SOERF",
       subtitle: "Start with a question. Build the answer with a rigorous and supportive team.",
       quickLabel: "Open positions",
       quickSummary:

@@ -72,9 +72,9 @@ export const pageCopy: Bilingual<PageCopy> = {
     home: {
       metaTitle: "Home",
       metaDescription:
-        "OERF Lab - Optical & Extreme Reaction Flow research group at Shanghai Jiao Tong University. Pioneering optical diagnostics, computational imaging, ultrafast spectroscopy, and reacting flow simulation.",
-      heroTitle: "Optical & Extreme Reaction Flow",
-      heroSubtitle: "OERF Lab",
+        "SOERF Lab - Smart Optical & Extreme Reaction Flow research group at Shanghai Jiao Tong University. Pioneering optical diagnostics, computational imaging, ultrafast spectroscopy, and reacting flow simulation.",
+      heroTitle: "Smart Optical & Extreme Reaction Flow",
+      heroSubtitle: "SOERF Lab",
       heroTagline:
         "Pioneering optical diagnostics, computational imaging, and reacting flow science for extreme environment energy and propulsion systems at Shanghai Jiao Tong University.",
       exploreResearch: "Explore Research",
@@ -120,7 +120,7 @@ export const pageCopy: Bilingual<PageCopy> = {
       heroTitle: "Publications",
       heroSubtitle: "Journal Publications",
       heroTagline:
-        "Journal publications from the OERF Lab team. Team member names are highlighted in bold.",
+        "Journal publications from the SOERF Lab team. Team member names are highlighted in bold.",
       sectionTitle: "Journal Publications",
       sectionSubtitle:
         "Collected from the Google Scholar profiles of Weiwei Cai, Yutao Zheng, Ning Liu, and Shijie Xu; grouped by publication year.",
@@ -141,9 +141,9 @@ export const pageCopy: Bilingual<PageCopy> = {
     home: {
       metaTitle: "主页",
       metaDescription:
-        "上海交通大学光学与极端反应流实验室（OERF Lab），面向极端环境能源与动力系统开展先进光学诊断、计算成像、超快光谱和反应流模拟研究。",
-      heroTitle: "光学与极端反应流",
-      heroSubtitle: "OERF Lab",
+        "上海交通大学智能光学与极端反应流实验室（SOERF Lab），面向极端环境能源与动力系统开展先进光学诊断、计算成像、超快光谱和反应流模拟研究。",
+      heroTitle: "智能光学与极端反应流",
+      heroSubtitle: "SOERF Lab",
       heroTagline:
         "面向极端环境能源与动力系统，发展先进光学诊断、计算成像与反应流科学。",
       exploreResearch: "探索研究方向",
@@ -182,7 +182,7 @@ export const pageCopy: Bilingual<PageCopy> = {
       metaTitle: "论文成果",
       heroTitle: "论文成果",
       heroSubtitle: "期刊论文",
-      heroTagline: "汇集 OERF Lab 团队成员发表的期刊论文，团队成员姓名以粗体显示。",
+      heroTagline: "汇集 SOERF Lab 团队成员发表的期刊论文，团队成员姓名以粗体显示。",
       sectionTitle: "期刊论文",
       sectionSubtitle: "论文来源于团队成员的 Google Scholar 主页，并按发表年份排列。",
     },

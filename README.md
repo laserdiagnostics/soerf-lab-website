@@ -1,6 +1,6 @@
-# OERF Lab Website
+# SOERF Lab Website
 
-Optical & Extreme Reaction Flow (OERF) Lab research group website at Shanghai Jiao Tong University.
+Smart Optical & Extreme Reaction Flow (SOERF) Lab research group website at Shanghai Jiao Tong University.
 
 ## Tech Stack
 

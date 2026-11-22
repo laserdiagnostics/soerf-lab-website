@@ -1,4 +1,4 @@
-// OERF Lab — Publication data
+// SOERF Lab — Publication data
 // Rebuilt from the four team Google Scholar profiles on 2026-07-22.
 // Journal articles only; conference papers, preprints, theses, corrections, and repository records are excluded.
 

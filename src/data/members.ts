@@ -58,7 +58,7 @@ export const members: Member[] = [
           "National Overseas High-Level Talent Program (Youth, 2016)",
         ],
         biography:
-          "Weiwei Cai is a Professor at the Institute of Turbomachinery, School of Mechanical Engineering, Shanghai Jiao Tong University. He leads the Optical & Extreme Reaction Flow (OERF) Lab. His research bridges advanced optical diagnostics, computational imaging, and machine learning for extreme environment energy and propulsion systems. Prof. Cai has published over 100 papers in top-tier journals including Science, Nature Photonics, Nature Electronics, Science Advances, Nature Communications, Progress in Energy and Combustion Science, and Journal of Fluid Mechanics. He serves on the editorial boards of Measurement Science and Technology, Infrared and Laser Engineering, and Acta Optica Sinica, among others.",
+          "Weiwei Cai is a Professor at the Institute of Turbomachinery, School of Mechanical Engineering, Shanghai Jiao Tong University. He leads the Smart Optical & Extreme Reaction Flow (SOERF) Lab. His research bridges advanced optical diagnostics, computational imaging, and machine learning for extreme environment energy and propulsion systems. Prof. Cai has published over 100 papers in top-tier journals including Science, Nature Photonics, Nature Electronics, Science Advances, Nature Communications, Progress in Energy and Combustion Science, and Journal of Fluid Mechanics. He serves on the editorial boards of Measurement Science and Technology, Infrared and Laser Engineering, and Acta Optica Sinica, among others.",
       },
       zh: {
         displayName: "蔡伟伟",
@@ -83,7 +83,7 @@ export const members: Member[] = [
           "国家海外高层次人才计划青年项目（2016）",
         ],
         biography:
-          "蔡伟伟，上海交通大学机械与动力工程学院叶轮机械研究所教授，光学与极端反应流实验室负责人。主要研究先进光学诊断、计算成像及机器学习在极端环境能源与动力系统中的应用。在 Science、Nature Photonics、Nature Electronics、Science Advances、Nature Communications、Progress in Energy and Combustion Science 和 Journal of Fluid Mechanics 等期刊发表论文 100 余篇，并担任 Measurement Science and Technology、《红外与激光工程》和《光学学报》等期刊编委。",
+          "蔡伟伟，上海交通大学机械与动力工程学院叶轮机械研究所教授，智能光学与极端反应流实验室负责人。主要研究先进光学诊断、计算成像及机器学习在极端环境能源与动力系统中的应用。在 Science、Nature Photonics、Nature Electronics、Science Advances、Nature Communications、Progress in Energy and Combustion Science 和 Journal of Fluid Mechanics 等期刊发表论文 100 余篇，并担任 Measurement Science and Technology、《红外与激光工程》和《光学学报》等期刊编委。",
       },
     },
   },
