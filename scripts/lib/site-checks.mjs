@@ -4,7 +4,7 @@ import path from "node:path";
 export const ROOT_DIR = process.cwd();
 export const DIST_DIR = path.join(ROOT_DIR, "dist");
 export const SITE_ORIGIN = "https://laserdiagnostics.github.io";
-export const BASE_PATH = "/oerf-lab-website";
+export const BASE_PATH = "/soerf-lab-website";
 export const SITE_ROOT = `${SITE_ORIGIN}${BASE_PATH}`;
 
 export function walkFiles(directory, suffix = "") {
