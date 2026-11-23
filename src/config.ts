@@ -12,7 +12,7 @@ export interface SiteCopy {
 }
 
 export const SITE = {
-  url: "https://laserdiagnostics.github.io/oerf-lab-website",
+  url: "https://laserdiagnostics.github.io/soerf-lab-website",
   email: "cweiwei@sjtu.edu.cn",
   since: 2015,
   content: {

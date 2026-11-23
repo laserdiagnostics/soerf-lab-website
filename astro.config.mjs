@@ -5,7 +5,7 @@ const isDevCommand = process.argv.includes("dev");
 
 export default defineConfig({
   site: "https://laserdiagnostics.github.io",
-  base: "/oerf-lab-website",
+  base: "/soerf-lab-website",
   // Keep the long-running development server from mutating production build artifacts.
   outDir: isDevCommand ? "./.astro-dev" : "./dist",
   i18n: {
