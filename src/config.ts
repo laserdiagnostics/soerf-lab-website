@@ -17,10 +17,10 @@ export const SITE = {
   since: 2015,
   content: {
     en: {
-      title: "SOERF Lab — Smart Optical & Extreme Reaction Flow",
+      title: "SOERF Lab — Smart Optics & Extreme Reactive Flow",
       shortName: "SOERF Lab",
       description:
-        "Smart Optical & Extreme Reaction Flow (SOERF) Lab at Shanghai Jiao Tong University. We develop advanced optical diagnostics, computational imaging, ultrafast spectroscopy, and reacting flow simulations for extreme environment energy and propulsion systems.",
+        "Smart Optics & Extreme Reactive Flow (SOERF) Lab at Shanghai Jiao Tong University. We develop advanced optical diagnostics, computational imaging, ultrafast spectroscopy, and reacting flow simulations for extreme environment energy and propulsion systems.",
       school: "School of Mechanical Engineering",
       university: "Shanghai Jiao Tong University",
       institute: "Institute of Turbomachinery",

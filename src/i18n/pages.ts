@@ -72,8 +72,8 @@ export const pageCopy: Bilingual<PageCopy> = {
     home: {
       metaTitle: "Home",
       metaDescription:
-        "SOERF Lab - Smart Optical & Extreme Reaction Flow research group at Shanghai Jiao Tong University. Pioneering optical diagnostics, computational imaging, ultrafast spectroscopy, and reacting flow simulation.",
-      heroTitle: "Smart Optical & Extreme Reaction Flow",
+        "SOERF Lab - Smart Optics & Extreme Reactive Flow research group at Shanghai Jiao Tong University. Pioneering optical diagnostics, computational imaging, ultrafast spectroscopy, and reacting flow simulation.",
+      heroTitle: "Smart Optics & Extreme Reactive Flow",
       heroSubtitle: "SOERF Lab",
       heroTagline:
         "Pioneering optical diagnostics, computational imaging, and reacting flow science for extreme environment energy and propulsion systems at Shanghai Jiao Tong University.",

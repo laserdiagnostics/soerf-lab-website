@@ -1,6 +1,6 @@
 # SOERF Lab Website
 
-Smart Optical & Extreme Reaction Flow (SOERF) Lab research group website at Shanghai Jiao Tong University.
+Smart Optics & Extreme Reactive Flow (SOERF) Lab research group website at Shanghai Jiao Tong University.
 
 ## Tech Stack
 

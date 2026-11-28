@@ -58,7 +58,7 @@ export const members: Member[] = [
           "National Overseas High-Level Talent Program (Youth, 2016)",
         ],
         biography:
-          "Weiwei Cai is a Professor at the Institute of Turbomachinery, School of Mechanical Engineering, Shanghai Jiao Tong University. He leads the Smart Optical & Extreme Reaction Flow (SOERF) Lab. His research bridges advanced optical diagnostics, computational imaging, and machine learning for extreme environment energy and propulsion systems. Prof. Cai has published over 100 papers in top-tier journals including Science, Nature Photonics, Nature Electronics, Science Advances, Nature Communications, Progress in Energy and Combustion Science, and Journal of Fluid Mechanics. He serves on the editorial boards of Measurement Science and Technology, Infrared and Laser Engineering, and Acta Optica Sinica, among others.",
+          "Weiwei Cai is a Professor at the Institute of Turbomachinery, School of Mechanical Engineering, Shanghai Jiao Tong University. He leads the Smart Optics & Extreme Reactive Flow (SOERF) Lab. His research bridges advanced optical diagnostics, computational imaging, and machine learning for extreme environment energy and propulsion systems. Prof. Cai has published over 100 papers in top-tier journals including Science, Nature Photonics, Nature Electronics, Science Advances, Nature Communications, Progress in Energy and Combustion Science, and Journal of Fluid Mechanics. He serves on the editorial boards of Measurement Science and Technology, Infrared and Laser Engineering, and Acta Optica Sinica, among others.",
       },
       zh: {
         displayName: "蔡伟伟",
